@@ -86,7 +86,7 @@ fetch("PC's Sheet.csv")
         const table = document.getElementById("deviceTable");
 
         for (let i = 1; i < rows.length; i++) {
-            const cells = rows[i].split(",");
+            const cells = rows[i].split(";");
 
             if (cells[0] === deviceId) {
                 headers.forEach((header, index) => {
