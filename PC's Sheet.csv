@@ -17,5 +17,5 @@ No,Name,Model,Windows,CPU,RAM,Disk Storage,Hardware Issues,Oracle,Notes,
 16,ISD_LAP16,HP,Windows 10 Pro,i5-4210U,2,SSD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=16
 17,ISD_LAP17,HP,Windows 10 Pro,i5-4200M,8,SSD,Maybe Battery,Yes,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=17
 18,ISD_LAP18,DELL,Windows 10 Pro,i5-3210M,8,HDD,Battery,No,sticky,https://ahmedibrahim000.github.io/qr-devices/index.html?id=18
-19,No,No,No,No,No,No,No,No,No,
-20,ISD_DT20,DESKTOP,Windows 10 Pro,i3-3240,8,HDD,No,No,No,
+19,ISD-LAP19,DELL,Windows 10 Pro,i5-3210M,8,HDD,Battery,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=19
+20,ISD_DT20,DESKTOP,Windows 10 Pro,i3-3240,8,HDD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=20
