@@ -9,12 +9,12 @@ No,Name,Model,Windows,CPU,RAM,Disk Storage,Hardware Issues,Oracle,Notes,
 8,ISD_LAP8,HP,Windows 10 Pro,i3-5005U,8,HDD,"Battery, Keyboard",No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=8
 9,ISD_LAP9,HP,Windows 10 Pro,i3,8,HDD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=9
 10,ISD_LAP10,DELL,Windows 10 Pro,i3-3217U,8,HDD,Battery,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=10
-11,ISD_LAP11,DELL,Windows 10 Pro,i3-3217U,6,HDD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=11
+11,ISD_LAP11,DELL,Windows 10 Pro,i3-3217U,8,HDD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=11
 12,ISD_LAP12,DELL,Windows 10 Pro,i3-3217U,8,HDD,No,No,m,https://ahmedibrahim000.github.io/qr-devices/index.html?id=12
-13,ISD_LAP13,DELL,Windows 10 Pro,i7-8550U,8,HDD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=13
+13,ISD_LAP13,DELL,Windows 10 Pro,i7-8550U,16,SSD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=13
 14,ISD_LAP14,DELL,Windows 10 Pro,i7-7500U,16,SSD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=14
 15,ISD_LAP15,DELL,Windows 10 Pro,i3-4005U,8,HDD,Battery,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=15
-16,ISD_LAP16,HP,Windows 10 Pro,i5-4210U,2,SSD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=16
+16,ISD_LAP16,HP,Windows 10 Pro,i5-4210U,8,SSD,No,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=16
 17,ISD_LAP17,HP,Windows 10 Pro,i5-4200M,8,SSD,Maybe Battery,Yes,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=17
 18,ISD_LAP18,DELL,Windows 10 Pro,i5-3210M,8,HDD,Battery,No,sticky,https://ahmedibrahim000.github.io/qr-devices/index.html?id=18
 19,ISD-LAP19,DELL,Windows 10 Pro,i5-3210M,8,HDD,Battery,No,No,https://ahmedibrahim000.github.io/qr-devices/index.html?id=19
